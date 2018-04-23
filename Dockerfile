@@ -8,7 +8,7 @@ RUN mkdir /url_shortener
 
 WORKDIR /url_shortener
 
-COPY Gemfile /url_shortener/Gemfile
-COPY Gemfile.lock /url_shortener/Gemfile.lock
+ADD Gemfile /url_shortener/Gemfile
+ADD Gemfile.lock /url_shortener/Gemfile.lock
 RUN bundle install
-COPY . /url_shortener
+ADD . /url_shortener

@@ -1,5 +1,5 @@
 rughru/url_shortener:
-	PkgInclude:
+  PkgInclude:
     - '*'
   PreInstall:
     - echo "Starting PreInstall"
