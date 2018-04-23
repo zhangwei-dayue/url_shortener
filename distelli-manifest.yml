@@ -1,4 +1,4 @@
-zhangwei1989/url_shortener:
+rughru/url_shortener:
 	PkgInclude:
     - '*'
   PreInstall:
