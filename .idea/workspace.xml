@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aac4b3e4-e943-4578-a5fd-ca978576bc35" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/url_shortener.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/url_shortener.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/mysql/db/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/db/ib_logfile0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/mysql/db/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/db/ibdata1" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,8 +16,8 @@
       <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+            <state>
+              <caret selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -219,12 +214,12 @@
       <updated>1524356156428</updated>
       <workItem from="1524356158560" duration="15127000" />
       <workItem from="1524552219471" duration="589000" />
-      <workItem from="1524565413933" duration="1134000" />
+      <workItem from="1524565413933" duration="1296000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16850000" />
+    <option name="totallyTimeSpent" value="17012000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -464,8 +459,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        <state>
+          <caret selection-end-column="36" />
         </state>
       </provider>
     </entry>
